@@ -1,0 +1,46 @@
+{
+  "coreSkills": [
+    {
+      "name": "Cloud Architecture",
+      "level": 95
+    },
+    {
+      "name": "AI/ML",
+      "level": 90
+    },
+    {
+      "name": "DevOps",
+      "level": 85
+    },
+    {
+      "name": "System Design",
+      "level": 92
+    },
+    {
+      "name": "Leadership",
+      "level": 88
+    }
+  ],
+  "technicalExpertise": [
+    {
+      "name": "AWS",
+      "value": 95
+    },
+    {
+      "name": "Azure",
+      "value": 90
+    },
+    {
+      "name": "GCP",
+      "value": 85
+    },
+    {
+      "name": "Kubernetes",
+      "value": 88
+    },
+    {
+      "name": "TensorFlow",
+      "value": 82
+    }
+  ]
+}

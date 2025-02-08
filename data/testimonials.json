@@ -1,0 +1,52 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "role": "CTO",
+      "company": "TechForward Inc.",
+      "content": "Sarosh's expertise in AI and cloud transformation was instrumental in modernizing our infrastructure. His strategic vision and technical leadership helped us achieve a 40% improvement in operational efficiency.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=100"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "role": "Director of Engineering",
+      "company": "CloudScale Solutions",
+      "content": "Working with Sarosh was transformative for our team. His deep understanding of cloud architecture and ability to simplify complex concepts made our migration seamless.",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100"
+    },
+    {
+      "id": 3,
+      "name": "Emily Watson",
+      "role": "VP of Innovation",
+      "company": "Future Systems",
+      "content": "Sarosh brings a unique combination of technical expertise and business acumen. His contributions to our AI initiatives have directly impacted our bottom line.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=100"
+    },
+    {
+      "id": 4,
+      "name": "David Park",
+      "role": "Head of Digital Transformation",
+      "company": "InnovateNow",
+      "content": "The AI solutions implemented by Sarosh have revolutionized our data analytics capabilities. His strategic approach to digital transformation has set new industry standards.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    {
+      "id": 5,
+      "name": "Lisa Thompson",
+      "role": "CEO",
+      "company": "NextGen Tech",
+      "content": "Sarosh's leadership in our cloud migration project was exceptional. His ability to align technical solutions with business objectives resulted in significant cost savings and improved scalability.",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&q=80&w=100"
+    },
+    {
+      "id": 6,
+      "name": "James Wilson",
+      "role": "Technical Director",
+      "company": "CloudFirst Solutions",
+      "content": "The expertise Sarosh brought to our AI initiatives was game-changing. His innovative approaches and deep technical knowledge helped us stay ahead of the competition.",
+      "image": "https://images.unsplash.com/photo-1463453091185-61582044d556?auto=format&fit=crop&q=80&w=100"
+    }
+  ]
+}

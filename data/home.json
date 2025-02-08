@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "title": "Strategic Technology Leader",
+    "subtitle": "Driving Growth Through AI and Digital Transformation | 20+ Years of Innovation Leadership",
+    "image": "https://sharedstore.blob.core.windows.net/public/SHSuit1.jpg",
+    "buttons": {
+      "primary": {
+        "text": "View Projects",
+        "link": "/projects"
+      },
+      "secondary": {
+        "text": "Download Resume",
+        "link": "https://quadtechai-my.sharepoint.com/:w:/g/personal/sarosh_hussain_mahumtech_com/Ef6RGM9KQiVLuzmPQC3eF4gBx1FsT922gfgs_-suzkL-dA?e=6MzIWj"
+      },
+      "tertiary": {
+        "text": "Get in Touch",
+        "link": "/contact"
+      }
+    }
+  },
+  "about": {
+    "description": "Visionary AI/ML Leader and Transformation Strategist driving innovation and delivering impactful results for Fortune 500 companies. Skilled in building high-performing teams, creating innovative solutions, and turning complex technical concepts into business strategies. Expert in Generative AI, cloud transformation, and data-driven decision-making, generating new revenue, boosting efficiency, and reducing costs.",
+    "philosophy": {
+      "title": "Professional Philosophy",
+      "content": "I believe in leveraging cutting-edge technology to drive tangible business outcomes and foster innovation. My approach combines strategic vision with technical expertise to deliver transformative solutions that create lasting value and competitive advantage."
+    }
+  },
+  "expertise": {
+    "title": "Core Competencies",
+    "areas": [
+      {
+        "id": 1,
+        "icon": "Brain",
+        "title": "AI & Data Science",
+        "level": 95,
+        "skills": [
+          "Generative AI",
+          "Machine Learning",
+          "MLOps",
+          "Computer Vision",
+          "NLP",
+          "Data Engineering"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Cloud",
+        "title": "Cloud & Infrastructure",
+        "level": 90,
+        "skills": [
+          "Cloud Architecture",
+          "Microservices",
+          "Kubernetes",
+          "DevOps",
+          "Multi-Cloud",
+          "Serverless"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "Code",
+        "title": "Software Development",
+        "level": 88,
+        "skills": [
+          "API Design",
+          "Node.js",
+          "Python",
+          "React",
+          "TypeScript",
+          "GraphQL"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Shield",
+        "title": "Security & Compliance",
+        "level": 85,
+        "skills": [
+          "Cloud Security",
+          "CNAPP",
+          "DevSecOps",
+          "Data Privacy",
+          "Compliance",
+          "IAM"
+        ]
+      }
+    ]
+  }
+}

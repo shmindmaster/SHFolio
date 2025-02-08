@@ -1,0 +1,61 @@
+{
+  "engagements": [
+    {
+      "id": 1,
+      "title": "Workshop on Generative AI for Shared Services & GBS",
+      "event": "SSONetwork",
+      "date": "2024-03-15T09:00:00Z",
+      "location": "Virtual",
+      "description": "Led a workshop and participated in a panel discussion on GenAI data strategies and implementation in shared services.",
+      "links": {
+        "presentation": "https://www.ssonetwork.com/events-generative-ai-shared-services/speakers/sarosh-hussain"
+      },
+      "topics": ["Generative AI", "Shared Services", "Data Strategy"]
+    },
+    {
+      "id": 2,
+      "title": "Strategic Cloud Migration & IT Modernization",
+      "event": "NCS CIO-to-CIO Event",
+      "date": "2020-04-20T14:00:00Z",
+      "location": "Houston, TX",
+      "description": "Presented best practices on cloud migration and modernizing IT infrastructure for enhanced business agility.",
+      "links": {
+        "presentation": "https://www.linkedin.com/feed/update/urn:li:activity:6638104958459789312"
+      },
+      "topics": ["Cloud Migration", "IT Modernization", "Digital Transformation"]
+    },
+    {
+      "id": 3,
+      "title": "AI for Business Transformation",
+      "event": "Gartner Houston CIO Summit",
+      "date": "2021-06-15T10:00:00Z",
+      "location": "Houston, TX",
+      "description": "Shared insights on enterprise-wide AI innovation and its impact on business transformation.",
+      "topics": ["AI Innovation", "Business Transformation", "Enterprise Strategy"]
+    },
+    {
+      "id": 4,
+      "title": "Integration of Kubernetes in Azure",
+      "event": "CRN",
+      "date": "2017-09-10T13:00:00Z",
+      "location": "Virtual",
+      "description": "Provided expert commentary on the operational benefits and strategic implications of Kubernetes adoption in Azure.",
+      "links": {
+        "presentation": "https://www.crn.com/news/cloud/300083862/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft-azure"
+      },
+      "topics": ["Kubernetes", "Azure", "Cloud Native"]
+    },
+    {
+      "id": 5,
+      "title": "Microsoft's Partnership with OpenAI",
+      "event": "CRN",
+      "date": "2016-11-15T11:00:00Z",
+      "location": "Virtual",
+      "description": "Discussed the future opportunities, ethical considerations, and evolution of the AI ecosystem following Microsoft's alliance with OpenAI.",
+      "links": {
+        "presentation": "https://www.crn.com/news/cloud/300082841/microsoft-aligns-with-openai-to-drive-benevolent-artificial-intelligence-opening-new-doors-for-partners"
+      },
+      "topics": ["OpenAI", "Microsoft", "AI Ethics", "Partnership"]
+    }
+  ]
+}

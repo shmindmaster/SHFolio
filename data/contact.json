@@ -1,0 +1,17 @@
+{
+  "title": "Get in Touch",
+  "contactInfo": {
+    "email": "sarosh.hussain@gmail.com",
+    "phone": "+1 832-278-7619",
+    "location": "Houston, TX"
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/saroshussain/",
+    "github": "https://github.com/shmindmaster",
+    "twitter": "https://twitter.com/saroshussain"
+  },
+  "officeHours": {
+    "weekdays": "Monday - Friday: 9:00 AM - 5:00 PM CST",
+    "availability": "Available for virtual meetings worldwide"
+  }
+}

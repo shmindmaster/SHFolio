@@ -1,0 +1,118 @@
+{
+  "workExperience": [
+    {
+      "id": 1,
+      "title": "Chief Technology Officer",
+      "company": "FleekBiz",
+      "location": "Houston, TX",
+      "date": "February 2022 - Present",
+      "logo": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&q=80&w=100",
+      "description": "Leading a global technology team in delivering innovative AI and cloud solutions across multiple industries.",
+      "achievements": [
+        "Grew and led a 70+ member global technology team (AI/ML engineers, data scientists, developers), implementing Agile (SAFe) and DevOps practices, resulting in a 30% acceleration in product delivery and a 40% reduction in time-to-market",
+        "Led the deployment of an enterprise-wide Azure AI-powered predictive maintenance platform for a $150B global energy company, reducing downtime by 20%, improving energy efficiency by 10%, and achieving $10M in annual cost savings",
+        "Architected and implemented a sophisticated, real-time Azure ML-based fraud detection engine for a $15B financial services client, reducing fraud losses by 18% and protecting $200M in annual revenue",
+        "Launched a GPT-4 and Azure ML-driven legal platform (Lawli.ai) providing legal insights, contract drafting, and document analysis, achieving 95% accuracy and generating $2M in first-year revenue",
+        "Led the migration of a $50M legacy biotech SaaS platform to Azure, introducing AI-driven clinical trial optimization that cut operational costs by 25% and accelerated drug time-to-market by 15%"
+      ],
+      "technologies": ["Azure AI", "GPT-4", "Machine Learning", "DevOps", "Agile SAFe"]
+    },
+    {
+      "id": 2,
+      "title": "Chief Information Officer",
+      "company": "Perry Homes",
+      "location": "Houston, TX",
+      "date": "June 2017 - February 2022",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=100",
+      "description": "Led digital transformation initiatives resulting in significant business growth and operational improvements.",
+      "achievements": [
+        "Defined and executed a holistic IT strategy, aligning technology investments with business objectives, contributing to a 163% increase in company revenue over five years",
+        "Led the migration of on-premises systems to Azure, improving system scalability and reliability by 50%, and reducing IT operational costs by 20%",
+        "Integrated AI-powered Dynamics 365 CPQ/CX solutions, generating $50M in incremental revenue, improving lead conversion by 25%, and increasing customer lifetime value by 20%",
+        "Deployed AI analytics using Power Platform, reducing paperwork by 70%, shortening project timelines by 20%, and minimizing cost overruns by 15%",
+        "Implemented Agile, DevOps, and AI-driven testing practices, resulting in a 50% reduction in release cycles and a 20% decrease in development costs"
+      ],
+      "technologies": ["Azure", "Dynamics 365", "Power Platform", "DevOps", "AI Analytics"]
+    },
+    {
+      "id": 3,
+      "title": "Director",
+      "company": "Omnicom & PwC",
+      "location": "Houston, TX",
+      "date": "May 2013 - June 2017",
+      "logo": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=100",
+      "description": "Led high-impact consulting engagements delivering AI/ML and automation solutions to Fortune 500 clients.",
+      "achievements": [
+        "For a $35B pharma giant (PwC), integrated AI for drug discovery and clinical trials, reducing operational costs by 20% and accelerating market entry of new drugs by 15%",
+        "For a $40B insurer (PwC), leveraged AI and RPA to streamline claims processing, achieving $10M in annual savings and reducing processing time by 35%",
+        "For a $30B insurer (Omnicom), delivered an AI-based fraud detection solution, reducing false positives by 40% and achieving $15M in annual savings",
+        "For a $50B asset management firm (Omnicom), built a cloud-based AI platform for real-time investment recommendations, increasing customer retention by 20% and generating $10M in additional revenue"
+      ],
+      "technologies": ["AI/ML", "RPA", "Cloud Architecture", "Fraud Detection", "Process Automation"]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "MS, Artificial Intelligence",
+      "institution": "University of Houston",
+      "period": "2026",
+      "description": "Focus on Advanced AI/ML and Deep Learning",
+      "specializations": ["Deep Learning", "Natural Language Processing", "Computer Vision"]
+    },
+    {
+      "id": 2,
+      "degree": "MBA, Finance & Strategy",
+      "institution": "University of Houston",
+      "period": "2022",
+      "description": "Focus on Technology Management and Business Strategy",
+      "specializations": ["Technology Management", "Digital Strategy", "Innovation"]
+    },
+    {
+      "id": 3,
+      "degree": "BS, Computer Science",
+      "institution": "University of Houston",
+      "period": "2007",
+      "description": "Focus on Software Engineering and Systems Design",
+      "specializations": ["Software Engineering", "Systems Design", "Computer Science"]
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Azure AI Engineer",
+      "issuer": "Microsoft",
+      "year": "2023"
+    },
+    {
+      "id": 2,
+      "name": "Azure Solutions Architect",
+      "issuer": "Microsoft",
+      "year": "2023"
+    },
+    {
+      "id": 3,
+      "name": "AWS Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "id": 4,
+      "name": "Agile Product Owner",
+      "issuer": "Scrum Alliance",
+      "year": "2022"
+    },
+    {
+      "id": 5,
+      "name": "Lean Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": "2021"
+    },
+    {
+      "id": 6,
+      "name": "TOGAF Enterprise Architect",
+      "issuer": "The Open Group",
+      "year": "2021"
+    }
+  ]
+}

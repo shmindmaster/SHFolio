@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "name": "Sarosh Hussain",
+    "title": "Strategic Technology Leader | Driving Growth Through AI and Digital Transformation",
+    "description": "Visionary AI/ML Leader and Transformation Strategist driving innovation and delivering impactful results for Fortune 500 companies. Skilled in building high-performing teams, creating innovative solutions, and turning complex technical concepts into business strategies. Expert in Generative AI, cloud transformation, and data-driven decision-making, generating new revenue, boosting efficiency, and reducing costs.",
+    "stats": {
+      "yearsOfExperience": "20+",
+      "projectsCompleted": "50+",
+      "industriesWorked": "10+"
+    },
+    "image": "https://sharedstore.blob.core.windows.net/public/SHSuit1.jpg"
+  },
+  "competencies": [
+    {
+      "id": 1,
+      "title": "AI/ML Leadership",
+      "icon": "Brain",
+      "skills": [
+        "Generative AI",
+        "Machine Learning",
+        "AI Strategy",
+        "Innovation Leadership"
+      ],
+      "level": 95
+    },
+    {
+      "id": 2,
+      "title": "Cloud Transformation",
+      "icon": "Award",
+      "skills": [
+        "Azure Architecture",
+        "Cloud Migration",
+        "DevOps",
+        "Microservices"
+      ],
+      "level": 90
+    },
+    {
+      "id": 3,
+      "title": "Enterprise Architecture",
+      "icon": "Briefcase",
+      "skills": [
+        "TOGAF Enterprise Architect",
+        "Azure Architect",
+        "DevOps Foundations",
+        "Lean Six Sigma",
+        "Agile Product Owner"
+      ],
+      "level": 92
+    }
+  ],
+  "philosophy": {
+    "title": "Professional Philosophy",
+    "content": "I believe in leveraging cutting-edge technology to drive tangible business outcomes and foster innovation. My approach combines strategic vision with technical expertise to deliver transformative solutions that create lasting value and competitive advantage."
+  }
+}

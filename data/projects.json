@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Lawli.ai - GPT-4 Legal Assistant",
+      "description": "Generated $200,000 in first-year revenue with 95% accuracy in legal advice and drafting. Utilized GPT-4 to automate legal document creation and review, demonstrating expertise in NLP and AI-driven automation.",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=800",
+      "technologies": ["GPT-4", "NLP", "Azure AI", "React", "Node.js"],
+      "achievements": [
+        "$200K first-year revenue",
+        "95% accuracy in legal advice",
+        "Automated document creation and review"
+      ],
+      "links": {
+        "demo": "https://www.youtube.com/Nx8CyjjiyeE",
+        "case_study": "https://example.com/lawli-case-study"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Azure AI Text Analytics Toolkit",
+      "description": "A Python-based toolkit leveraging Azure Cognitive Services for advanced text analysis, including sentiment analysis, entity recognition, and key phrase extraction. Ideal for e-discovery, customer feedback analysis, and social media monitoring.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+      "technologies": ["Python", "Azure Cognitive Services", "NLP", "Machine Learning"],
+      "achievements": [
+        "Open-source contribution with 500+ stars",
+        "Used by 100+ organizations",
+        "Featured in Microsoft documentation"
+      ],
+      "links": {
+        "github": "https://github.com/shmindmaster/azure-text-analytics-toolkit",
+        "case_study": "https://example.com/toolkit-case-study"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Azure AI RAG GPT",
+      "description": "A comprehensive Retrieval-Augmented Generation (RAG) application built on Azure AI Studio, leveraging GPT-3.5 Turbo for enhanced conversational AI. Demonstrates end-to-end development, including prompt engineering, evaluation, and deployment automation.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+      "technologies": ["Azure OpenAI", "RAG", "Python", "GitHub Actions"],
+      "achievements": [
+        "Automated deployment pipeline",
+        "Enhanced conversation accuracy",
+        "Scalable architecture"
+      ],
+      "links": {
+        "github": "https://github.com/shmindmaster/azure-rag-gpt-application/",
+        "demo": "https://example.com/rag-demo"
+      }
+    }
+  ]
+}
