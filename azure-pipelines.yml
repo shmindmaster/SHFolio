@@ -1,0 +1,40 @@
+trigger:
+  - main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  azureSubscription: 'YOUR_AZURE_SUBSCRIPTION_SERVICE_CONNECTION'
+  appName: 'YOUR_AZURE_WEB_APP_NAME'
+  resourceGroup: 'YOUR_RESOURCE_GROUP'
+  packagePath: '$(System.DefaultWorkingDirectory)'
+
+steps:
+  - checkout: self
+    clean: true
+
+  - task: NodeTool@0
+    inputs:
+      versionSpec: '16.x'
+    displayName: 'Install Node.js'
+
+  - script: |
+      npm install
+      npm run build
+    displayName: 'Install dependencies and build'
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
+      includeRootFolder: false
+      archiveType: 'zip'
+      archiveFile: '$(Build.ArtifactStagingDirectory)/app.zip'
+    displayName: 'Archive build output'
+
+  - task: AzureWebApp@1
+    inputs:
+      azureSubscription: '$(azureSubscription)'
+      appName: '$(appName)'
+      package: '$(Build.ArtifactStagingDirectory)/app.zip'
+    displayName: 'Deploy to Azure Web App'
